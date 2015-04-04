@@ -1,0 +1,6 @@
+c:\users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Debug\GoalGame.exe.config
+c:\users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Debug\GoalGame.exe
+c:\users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Debug\GoalGame.pdb
+c:\users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\obj\Debug\GoalGame.exe
+c:\users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\obj\Debug\GoalGame.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\obj\Debug\GoalGame.csprojResolveAssemblyReference.cache
