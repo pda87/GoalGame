@@ -1,0 +1,5 @@
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Release\GoalGame.exe.config
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Release\GoalGame.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\bin\Release\GoalGame.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\obj\Release\GoalGame.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\GoalGame\GoalGame\obj\Release\GoalGame.pdb
